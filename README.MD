@@ -1,6 +1,6 @@
 <!-- Header with the name of the repository -->
 
-# [Repository Name]
+# Vite + Tailwind CSS + DaisyUI Template
 
 <!-- Description of the repository -->
 
