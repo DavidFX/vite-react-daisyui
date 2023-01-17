@@ -4,7 +4,7 @@
 
 <!-- Description of the repository -->
 
-It's a repository that I use to create a template for my repositories. It contains a Vite project with a basic configuration and a README.MD file with a template.
+It's a template to start a project with Vite, Tailwind CSS and DaisyUI used to create a simple app with React and TypeScript.
 
 <!-- List with packages installed on top of this repository -->
 
